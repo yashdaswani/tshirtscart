@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tshirtscart/static/css/main.88cbf0e3.css",
+    "main.js": "/tshirtscart/static/js/main.ac474663.js",
+    "static/js/787.3d1dd2fa.chunk.js": "/tshirtscart/static/js/787.3d1dd2fa.chunk.js",
+    "index.html": "/tshirtscart/index.html",
+    "main.88cbf0e3.css.map": "/tshirtscart/static/css/main.88cbf0e3.css.map",
+    "main.ac474663.js.map": "/tshirtscart/static/js/main.ac474663.js.map",
+    "787.3d1dd2fa.chunk.js.map": "/tshirtscart/static/js/787.3d1dd2fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88cbf0e3.css",
+    "static/js/main.ac474663.js"
+  ]
+}
